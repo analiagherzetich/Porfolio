@@ -1,4 +1,4 @@
-# Porfoliomi_porfolio
+#mi_porfolio
 Hola!! soy Analia Gherzetich, amo el diseño, la fotografia, curiosa por naturaleza fui buscando saber que hay atrás de cada diseño de las paginas web que visitamos. 
 Asi es como llegué a Ada donde empece mi camino. Estoy cursando "Programacion frontend". Nunca pensé que seria tan interesante y desafiante. Este es mi primer proyecto, 
 que tuvo como consigna replicar una pagina web, pudiendo llevar a cabo distintas funcionalidades como recorrer la pagina de una manera agradable y intuitiva aplicando el
